@@ -1,0 +1,21 @@
+{
+  "name": "JLA",
+  "version": "0.1.4",
+  "private": true,
+  "scripts": {
+    "test": "mocha",
+    "start": "node-dev index"
+  },
+  "author": {
+    "name": "Lynn",
+    "emails": "linyuhong@jd.com",
+    "url": "jdc.jd.com"
+  },
+  "dependencies": {
+    "cheerio": "",
+    "request": "",
+    "lodash": "",
+    "async": "",
+    "moment": ""
+  }
+}
